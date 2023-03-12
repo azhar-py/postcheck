@@ -7,7 +7,7 @@ PostCheck is a plugin that works with the MemberPress plugin to manage the acces
 Activate the plugin through the 'Plugins' screen in WordPress.
 
 # How to use PostCheck
-PostCheck is a simple and easy-to-use plugin. Once you have installed and activated the plugin, it will automatically integrate with MemberPress. You can then start using PostCheck to manage the access of your posts.
+PostCheck is a simple and easy-to-use plugin. Once you have installed and activated the plugin, it will automatically integrate with MemberPress. 
 
 1) Edit the post that you want to restrict access to.
 2) Scroll down to the 'MemberPress' section in the post editor.
